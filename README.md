@@ -1,6 +1,6 @@
-# Generalized SNE
+# Power-Law SNE
 
-Perform an unsupervised dimensionality reduction of data using **power-law SNE, generalized SNE, spherical SNE, and t-SNE**.
+Perform an unsupervised dimensionality reduction of data using **power-law SNE, generalized SNE, spherical SNE, and t-SNE**, where the generalized SNE allows us to adjust the loss function from the Kullback–Leibler divergence to a general **alpha-divergence**.
 
 
 ## Getting Started
