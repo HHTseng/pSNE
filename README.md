@@ -5,7 +5,7 @@ Perform an unsupervised dimensionality reduction of data using **power-law SNE, 
 
 ## Getting Started
 1. Download the repository.
-2. **Add path** (both **GeneralizedSNE** & subfolder **techniques**) to the MATLAB.
+2. **Add path** (both **pSNE-master** & subfolder **techniques**) to the MATLAB.
 2. Download 3 image [datasets](https://drive.google.com/file/d/0B5trx3WVKVERbnRRYkp6YVhEQTg/view?usp=sharing), MNIST, COIL-20, Olivetti faces, for demonstration.
 3. Open main script `SNE_display.m` & **set path** for the 3 datasets in the beginning section. For example, placing folder `Dataset` inside `GeneralizedSNE`:
   ```python
